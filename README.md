@@ -5,7 +5,7 @@
     
 - 📚 Sometimes, after I refine a few thoughts on the first topic, I document them in an infrequently updated substack that you can find [here](https://sauti.substack.com/).
 - 📚 I also keep a public notebook in which I distill key ideas from computer science. You can check it out [here](https://github.com/jlikhuva/blog)
-- 😄 Fun fact: I use [notion as a fancy (not really) bookmark manager](https://www.notion.so/Live-Edification-List-56d437d50e904def8ea447141b980852) to keep track of interesting texts (papers, and book chapters) and blog posts.
+- 😄 Fun fact: I use [notion as a fancy (not really) bookmark manager](https://www.notion.so/Live-Edification-List-56d437d50e904def8ea447141b980852) to keep track of interesting texts (papers, and book chapters) and blog posts. Oh! and I like holstein heifers and cats!!
 
 - 📫 Feel free to reach out via e-mail if you have any questions 📫. 
 <!--
