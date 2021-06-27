@@ -1,7 +1,7 @@
 ### ¡👋 Hello there 👋!
 - I'm Joseph. A scientist working in Cambridge MA. My goal is to deeply understand foundational ideas from key areas of knowledge that, I believe, will define the rest of this century. To that end, I spend most of my (free?) time actively thinking about these topics:
     1. 🤔 The fate of artificial nations (A term that I use to refer to nations created as colonial units).
-    2. 🤔 How the intersection of computer science and molecular biology will allow us to feed the world & heal the world — can we speed up the process of creating new cultivars? can we create high fidelity computational models of non-infectious diseases?
+    2. 🤔 How the intersection of computer science and molecular biology will allow us to feed & heal the world — can we speed up the process of creating new cultivars? can we create high fidelity computational models of non-infectious diseases?
     
 - 📚 Sometimes, after I refine a few thoughts on the first topic, I document them in an infrequently updated substack that you can find [here](https://sauti.substack.com/).
 - 📚 I also keep a public notebook in which I distill key ideas from computer science. You can check it out [here](https://github.com/jlikhuva/blog)
