@@ -1,13 +1,9 @@
 ### ¡👋 Hello there 👋!
-- I'm Joseph. An aspiring scientist working in Cambridge MA. My goal is to deeply understand foundational ideas from key areas of knowledge that, I believe, will define the rest of this century. To that end, I spend most of my (free?) time actively thinking about these topics:
-    1. 🤔 The fate of artificial nations (A term that I use to refer to nations created as colonial units).
-    2. 🤔 How the intersection of computer science and molecular biology will allow us to feed & heal the world — can we speed up the process of creating new cultivars? can we create high fidelity computational models of non-infectious diseases (especially Cancer and Neurodegenerative diseases)?
-    
-- 📚 Sometimes, after I refine a few thoughts on the first topic, I document them in an infrequently updated substack that you can find [here](https://sauti.substack.com/).
-- 📚 I also keep a public notebook in which I distill key ideas from computer science. You can check it out [here](https://github.com/jlikhuva/blog)
-- 📚 Finally, I use [notion as a fancy (not really) bookmark manager](https://www.notion.so/Live-Edification-List-56d437d50e904def8ea447141b980852) to keep track of interesting texts (papers, and book chapters) and blog posts.
-- 😄 I love holstein heifers 🐄 , cats 🐈, and anything that [Ken Burns has ever touched !!](https://shop.pbs.org/shows/shows-ken-burns#/perpage:499/sort:ss_rating:desc)
-- 📫 Feel free to reach out via e-mail if you have any questions 📫. 
+
+I'm Joseph. A scientist working in Cambridge MA. 
+
+My goal is to deeply understand, and to contribute to, foundational ideas in key areas of knowledge that, I believe, will define the rest of this century.
+
 <!--
 **jlikhuva/jlikhuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
